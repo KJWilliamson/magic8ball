@@ -1,0 +1,60 @@
+h1 {
+  
+    width: 1210px;
+    text-align: center;
+    color: white;
+    }
+  
+  span {
+    color: purple;
+  }
+  
+  
+  body {
+    background-color: gray;
+  }
+  
+  .box {
+    
+    position: relative;
+    height: 300px;
+    width: 500px;
+    margin: auto;
+    display: block;
+    margin-top: 8%;
+    background: none;
+  }
+  
+  .record {
+    flex:display
+    position: absolute;
+    border-radius: 50%;
+    height: 94%;
+    width: 74%;
+    top: 28%;
+    left: 33%;
+    background: #080f0f;
+  }
+  
+  .inner-record {
+    display: flex;
+    position: absolute;
+    border-radius: 50%;
+    height: 42%;
+    width: 34%;
+    top: 28%;
+    left: 20%;
+    background: white;
+  }
+  
+  .eight {
+    display: flex;
+    color: purple;
+    text-align: center;
+    position: absolute;
+    width: 270px;;
+  }
+  
+  .button {
+    
+  }
