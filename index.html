@@ -3,20 +3,29 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width">
-    <title>repl.it</title>
+    <title>Magic 8 Ball</title>
     <link href="style.css" rel="stylesheet" type="text/css" />
   </head>
   <body>
-
+    <div class = "box">
     <header>
-        <h1>Magic <span>8</span> Ball</h1>
-      <div class="box">
-        <div class="record"></div>
-        <div class="inner-record"></div>
-        <div class = "eight">
-          <span>8</span></div>
-        <div class = "button"><button id = "question">ASK A QUESTION...</button></div>
+      <h1>Magic <span>8 </span>Ball</h1>
+    </header>
+  <!-- Using same kind of textbox and button from frequency counter -->
+  <textarea rows="8" cols="60" id="textInput"></textarea>
+    <br />  
+    <button id="questionButton">ASK YOUR QUESTION...</button>
+    <br>
+
+    <div id = "magicball">
+      <div class = "triangle" id = "answer"></div>
+      </div>
         
+      
+
+
+
+    </div>
     <script src="script.js"></script>
   </body>
 </html>
