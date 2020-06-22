@@ -30,7 +30,7 @@ let answers = "";
   case 6: 
     answers = "Not likely";
   }
-  answer.innerHTML(answers);
+  answer.innerHTML = answers;
 });
 
 
