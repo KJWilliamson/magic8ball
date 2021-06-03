@@ -21,11 +21,11 @@ h1 {
   
 }
 span {
-  color: purple;
+  color: #d2e69c;
 }
 
 textarea {
-  background: purple;
+  background: #d2e69c;
   color: white;
 }
 
@@ -46,7 +46,7 @@ textarea {
     height: 0; 
     border-left: 100px solid transparent;
     border-right: 100px solid transparent;
-    border-bottom: 100px solid purple;
+    border-bottom: 100px solid #d2e69c;
     padding: 70px;
     
 }
