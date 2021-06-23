@@ -21,14 +21,14 @@ let answers = "";
     answers = "No";
     break; 
   case 3:
-    answers = "It's very likely"; 
+    answers = "Not likely"; 
     break;
   case 4: 
-    answers = "Try again later";
+    answers = "It will be so";
   case 5:
-    answers = "The future is uncertain";
+    answers = "The future is yours";
   case 6: 
-    answers = "Not likely";
+    answers = "It's very likely";
   }
   answer.innerHTML = answers;
 });
