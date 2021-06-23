@@ -1,5 +1,5 @@
 
-https://kamelaw.gitlab.io/magic8ball/
+https://kjwilliamson.github.io/magic8ball/
 
 
 
