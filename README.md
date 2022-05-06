@@ -1,9 +1,9 @@
 
 https://kjwilliamson.github.io/magic8ball/
 
+# Need to add mobile capability
 
-
-Plan
+# Plan
 
 I want user to type in question and to get a random response from options. 
 I'll use a switch statement and random number generator that I used in rolling dice.
