@@ -1,6 +1,4 @@
-
-https://kjwilliamson.github.io/magic8ball/
-
+# Magic 8 Ball
 # Need to add mobile capability
 
 # Plan
@@ -13,5 +11,10 @@ I could do 6 different response possibilities and assign them a number?
 
 When user clicks on button i'll have the answer post above the triangle
 
+https://jsmagic8ball.netlify.app/
 
-![magic8ball](https://user-images.githubusercontent.com/24884380/161318001-98ac2c43-a587-447e-bbd4-fba24e8b6cbc.jpeg)
+https://kjwilliamson.github.io/magic8ball/
+
+
+![magic8](https://user-images.githubusercontent.com/24884380/168673220-e4f2dc87-7dd2-42a3-b581-c7d6cbe67e24.jpg)
+
