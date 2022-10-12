@@ -1,17 +1,14 @@
-# Magic 8 Ball
-# Need to add mobile capability
+## Magic 8 Ball built with HTML, CSS, and Javascript
+#### Need to add mobile capability
 
-# Plan
-
-I want user to type in question and to get a random response from options. 
-I'll use a switch statement and random number generator that I used in rolling dice.
-
-
-I could do 6 different response possibilities and assign them a number?
-
-When user clicks on button i'll have the answer post above the triangle
+* User types in question to get a random response from options. 
 
 https://jsmagic8ball.netlify.app/
+
+* Used a switch statement and random number generator.
+* When user clicks on button the answer posts above the triangle
+
+
 
 https://kjwilliamson.github.io/magic8ball/
 
